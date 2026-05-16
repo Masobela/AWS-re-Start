@@ -309,5 +309,5 @@ Always copy the ARN from **SNS → Topics**, not from **SNS → Subscriptions**.
 
 ```
 Subject: Word Count Result
-The word count in the sample.txt file is 42.
+The word count in the sample.txt file is 3.
 ```
