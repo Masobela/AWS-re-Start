@@ -131,8 +131,6 @@ After pasting the code, click **Deploy**.
 ### Step 5: Add the S3 Trigger
 
 1. On the Lambda function page, click **+ Add trigger**
-   <img width="872" height="452" alt="image" src="https://github.com/user-attachments/assets/d8cabb05-be09-4939-9b9d-87ca5046088a" />
-
 3. Select **S3**
 4. Choose your bucket
    <img width="1373" height="768" alt="image" src="https://github.com/user-attachments/assets/4362e711-5b03-4564-9f36-f70630568bc5" />
