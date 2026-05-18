@@ -20,12 +20,12 @@
 - Earned an AWS-issued digital badge validating globally recognised cloud competency.
 
 ## Resources
-- Amazon S3 — used to host a static website and store files in the cloud 
-- Amazon EC2 — used to launch virtual servers, scale compute workloads, and deploy instances across Availability Zones
-- Amazon VPC — used to configure private networks, route tables, security groups, and VPC peering between departments 
-- Amazon RDS — used to create a managed MySQL database with backups, multi-AZ deployment, and read replicas 
-- Amazon DynamoDB — used to create a NoSQL database, add records, and query tables 
-- AWS IAM — used to create user groups, attach access policies, and manage permissions for security 
-- Amazon EFS — used to set up a shared cloud file system and mount targets 
-- EC2 Auto Scaling — used to configure auto-healing and scheduled scaling for applications
-- AWS Pricing Calculator — used to estimate and compare EC2 costs for cloud economics planning Class Central
+- Amazon S3: used to host a static website and store files in the cloud 
+- Amazon EC2: used to launch virtual servers, scale compute workloads, and deploy instances across Availability Zones
+- Amazon VPC: used to configure private networks, route tables, security groups, and VPC peering between departments 
+- Amazon RDS: used to create a managed MySQL database with backups, multi-AZ deployment, and read replicas 
+- Amazon DynamoDB: used to create a NoSQL database, add records, and query tables 
+- AWS IAM: used to create user groups, attach access policies, and manage permissions for security 
+- Amazon EFS: used to set up a shared cloud file system and mount targets 
+- EC2 Auto Scaling: used to configure auto-healing and scheduled scaling for applications
+- AWS Pricing Calculator: used to estimate and compare EC2 costs for cloud economics planning Class Central
