@@ -1,6 +1,7 @@
 # AWS Cloud Quest: Cloud Practitioner — Trained 🏅
 
-![AWS Cloud Quest Badge](badge.png)
+<img width="601" height="601" alt="badge" src="https://github.com/user-attachments/assets/e17538b3-20fa-4495-98e0-1d68a79043b6" />
+
 
 ## Overview
 
