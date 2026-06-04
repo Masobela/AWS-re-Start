@@ -89,8 +89,8 @@ Services Search → ec2 → Click EC2
 
 ---
 
-📸 **Screenshot:**
-> _Insert screenshot: AWS console top navigation bar showing "N. Virginia" region selected and EC2 in the search results._
+<img width="1366" height="768" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/4cb200b5-e884-4247-a2fe-553cb3b20628" />
+
 
 ---
 
