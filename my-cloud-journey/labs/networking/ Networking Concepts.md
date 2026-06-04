@@ -105,8 +105,8 @@ Services Search → ec2 → Click EC2
 
 ---
 
-📸 **Screenshot:**
-> _Insert screenshot: EC2 Instances list with Web Server selected, Details tab open showing Public IPv4 address with copy icon highlighted._
+<img width="1366" height="768" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/ce004491-5477-4f24-a2fb-c64436734af0" />
+
 
 ---
 
