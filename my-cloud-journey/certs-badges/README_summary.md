@@ -1,6 +1,8 @@
 # AWS Networking Concepts — Badge Lab Summary
 
 ## 🏅 Badge Earned: AWS Networking Concepts
+<img width="720" height="556" alt="Network Simulearn" src="https://github.com/user-attachments/assets/2a10d0cb-dfc5-4ddc-bc91-8f6ac7e83fae" />
+
 
 This lab was completed as part of an AWS practice environment focused on core networking concepts. The objective was to build and configure a secure, functional network architecture on AWS from scratch.
 
